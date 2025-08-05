@@ -1,10 +1,10 @@
 # node_modules
-Client/node_modules/
-Server/node_modules/
+node_modules/
 
 # environment files
-Client/.env
-Server/.env
+
+.env
+.env.local
 
 # build
 Client/build/
