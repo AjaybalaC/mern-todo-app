@@ -3,7 +3,8 @@ Client/node_modules/
 Server/node_modules/
 
 # environment files
-*.env
+Client/.env
+Server/.env
 
 # build
 Client/build/
